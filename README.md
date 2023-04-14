@@ -15,7 +15,7 @@ Até no dia de hoje é necessário apenas 2 entradas do usuário.
 Ao aparecer **"Define value for property 'version' 1.0-SNAPSHOT: :"** entre com a versão que foi escolhida no penúltimo tópico da criação do projeto.
 Ao aparecer **" Y: :"** entre com **"y"** se concordar com tudo e seu projeto será criado.
 
-### Classe ConnectionDAO
+### Classe ConnectionDataBase
 
 Nela faremos a conexão e desconexão do meu BD.
 No próprio código temos
