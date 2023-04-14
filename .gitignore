@@ -1,0 +1,23 @@
+# Arquivos de compilação do Maven
+target/
+
+# Arquivos de logs
+log/
+*.log
+
+# Arquivos do VS Code
+.vscode
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependência do Maven
+dependency-reduced-pom.xml
+.mvn/timing.properties
+
+# Pasta de testes
+test/
